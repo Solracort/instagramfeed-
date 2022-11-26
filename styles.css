@@ -1,0 +1,54 @@
+body{
+    background:rgb(164, 175, 180);
+}
+.cardgroup{
+    width:70%;
+    margin:auto;
+}
+.card{
+    width:30%;
+    margin:auto;
+    background: white;
+    display:block;
+}   
+.title{
+    background:white;
+    display:flex;
+    height:5%;
+    width:100%;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 3px;
+    
+}
+.name{
+    width:90%;
+    height: 5%;
+    margin:5px;
+      
+}
+.name h4{
+    font-weight:900px;
+}
+.date{
+margin-top: auto;
+margin-bottom: auto;
+text-align:right;
+justify-content: center;
+
+}
+.pic{
+    margin-bottom: 0px;
+    height: max-content;
+    width: max-content;
+    
+}
+.comment{
+    background:white;
+    width:100%;
+    margin-top: 0px;
+    
+}
+.comment p{
+    margin-top: 0px;
+    margin-inline: 5px;
+}
