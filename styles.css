@@ -8,8 +8,9 @@ body{
 .card{
     width:30%;
     margin:auto;
-    background: white;
+    margin-bottom: 0px;
     display:block;
+    overflow: hidden;
 }   
 .title{
     background:white;
@@ -40,6 +41,7 @@ justify-content: center;
     margin-bottom: 0px;
     height: max-content;
     width: max-content;
+    background: white;
     
 }
 .comment{
@@ -48,7 +50,7 @@ justify-content: center;
     margin-top: 0px;
     
 }
-.comment p{
+.comment p {
     margin-top: 0px;
-    margin-inline: 5px;
+    
 }
